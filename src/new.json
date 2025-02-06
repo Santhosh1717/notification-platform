@@ -1,0 +1,164 @@
+{
+    "preferences": [
+      {
+        "category_id": 1,
+        "events": [
+          {
+            "event_id": 1,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          },{
+            "event_id": 2,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          }, {
+            "event_id": 3,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category_id": 2,
+        "events": [
+          {
+            "event_id": 4,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          },{
+            "event_id": 5,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          }, {
+            "event_id": 6,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category_id": 3,
+        "events": [
+          {
+            "event_id": 7,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          },{
+            "event_id": 8,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category_id": 4,
+        "events": [
+          {
+            "event_id": 9,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category_id": 5,
+        "events": [
+          {
+            "event_id": 10,
+            "channels": [
+              {
+                "channel_id": 1
+              },
+              {
+                "channel_id": 2
+              },
+              {
+                "channel_id": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
